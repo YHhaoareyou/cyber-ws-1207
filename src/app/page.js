@@ -3,7 +3,7 @@ import styles from './page.module.css'
 import Header from "./ui/Header";
 
 export default function Home() {
-  const names = ["Ada Lovelace", "Grace Hopper", "Margaret Hamilton"];
+  const names = ["Ada Lovelace", "Grace Hopper", "Margaret Hamilton", "Zhixing Wang"];
 
   return (
     <main className={styles.main}>
